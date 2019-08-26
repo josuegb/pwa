@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# others
+package-lock.json
+yarn.lock
+yarn-error.log
+.env
+
+# misc
+.DS_Store
