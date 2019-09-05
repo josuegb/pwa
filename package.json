@@ -1,0 +1,11 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/josuegb/pwa.git",
+  "author": "josuegb <josuegb15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "workbox-sw": "^4.3.1"
+  }
+}
