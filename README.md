@@ -3,6 +3,8 @@
 Simple example how to create progressive web app. <br>
 Based on: [Progressive Web App tutorial – learn to build a PWA from scratch](https://www.youtube.com/watch?v=gcx-3qi7t7c)
 
+Note: master branch is the initial branch in order to start coding, go through different branches to see the progress
+
 <br>
 
 ## How to init
@@ -43,4 +45,3 @@ https://www.youtube.com/watch?v=we3lLo-UFtk
 
 Workers / Service Workers / Worklets :<br>
 https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/
-
