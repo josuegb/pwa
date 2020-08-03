@@ -1,21 +1,21 @@
 # Progressive Web App (PWA):
 
-Ejemplo simple de como crear un progressive web app. <br>
-Basado en: [Progressive Web App tutorial – learn to build a PWA from scratch](https://www.youtube.com/watch?v=gcx-3qi7t7c)
+Simple example how to create progressive web app. <br>
+Based on: [Progressive Web App tutorial – learn to build a PWA from scratch](https://www.youtube.com/watch?v=gcx-3qi7t7c)
 
 <br>
 
-## Como iniciar el app
+## How to init
 
-- Crear una cuenta en https://newsapi.org/ y guardar el _API KEY_
-- Reemplzar la variable `APIKEY` en el archivo `app.js`
-- Instalar `npm install -g serve` | `yarn global add serve`
-- Correr comando `serve`
-- Abrir http://localhost:5000 para verlo en el browser.
+- Create and account in https://newsapi.org/ and save the _API KEY_
+- Replace the variable`APIKEY` in the file `app.js`
+- Install `npm install -g serve` | `yarn global add serve`
+- Run command `serve`
+- Oen http://localhost:5000 to see it in the browser.
 
 <br>
 
-## Herramientas necesarias
+## Needed tools
 
 Service Workers: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 
@@ -31,7 +31,7 @@ Workbox: https://developers.google.com/web/tools/workbox/
 
 <br>
 
-## Recursos Adicionales:
+## Addional Resources:
 
 PWA documentation: <br>
 https://developers.google.com/web/fundamentals/ <br>
