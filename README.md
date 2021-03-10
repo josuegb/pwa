@@ -9,7 +9,7 @@ Note: master branch is the initial branch in order to start coding, go through d
 
 ## How to init
 
-- Create and account in https://newsapi.org/ and save the _API KEY_
+- Create an account in https://newsapi.org/ and save the _API KEY_
 - Replace the variable`APIKEY` in the file `app.js`
 - Install `npm install -g serve` | `yarn global add serve`
 - Run command `serve`
